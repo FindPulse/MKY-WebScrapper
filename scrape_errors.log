@@ -1,0 +1,39 @@
+[2026-01-29 18:18:13] HTTP 403 url=https://www.handbagclinic.co.uk/sitemap (non-retryable)
+[2026-01-29 19:17:50] Browser load error: https://www.handbagclinic.co.uk/sitemap err=Page.goto: net::ERR_CONNECTION_RESET at https://www.handbagclinic.co.uk/sitemap
+Call log:
+  - navigating to "https://www.handbagclinic.co.uk/sitemap", waiting until "domcontentloaded"
+
+[2026-01-29 19:20:38] Browser load error: https://www.handbagclinic.co.uk/ err=Page.goto: net::ERR_QUIC_PROTOCOL_ERROR at https://www.handbagclinic.co.uk/
+Call log:
+  - navigating to "https://www.handbagclinic.co.uk/", waiting until "domcontentloaded"
+
+[2026-01-29 19:34:57] Browser load error: https://www.handbagclinic.co.uk/ err=Page.goto: net::ERR_CONNECTION_RESET at https://www.handbagclinic.co.uk/
+Call log:
+  - navigating to "https://www.handbagclinic.co.uk/", waiting until "domcontentloaded"
+
+[2026-01-29 20:16:10] Browser load error: https://www.handbagclinic.co.uk/ err=Page.goto: net::ERR_CONNECTION_RESET at https://www.handbagclinic.co.uk/
+Call log:
+  - navigating to "https://www.handbagclinic.co.uk/", waiting until "domcontentloaded"
+
+[2026-01-29 20:16:42] Browser load error: https://www.handbagclinic.co.uk/ err=Page.goto: net::ERR_CONNECTION_RESET at https://www.handbagclinic.co.uk/
+Call log:
+  - navigating to "https://www.handbagclinic.co.uk/", waiting until "domcontentloaded"
+
+[2026-01-29 20:23:18] Browser load error: https://www.handbagclinic.co.uk/ err=Page.goto: net::ERR_CONNECTION_RESET at https://www.handbagclinic.co.uk/
+Call log:
+  - navigating to "https://www.handbagclinic.co.uk/", waiting until "domcontentloaded"
+
+[2026-01-31 01:15:02] Browser load error: https://www.handbagclinic.co.uk/ err=Page.content: Target page, context or browser has been closed (attempt 1/3)
+[2026-01-31 01:15:05] Browser load error: https://www.handbagclinic.co.uk/ err=Page.goto: Target page, context or browser has been closed (attempt 2/3)
+[2026-01-31 01:15:14] Browser load error: https://www.handbagclinic.co.uk/ err=Page.goto: Target page, context or browser has been closed (attempt 3/3)
+[2026-01-31 01:15:14] Listing fetch failed: https://www.handbagclinic.co.uk/
+[2026-01-31 01:15:14] Browser load error: https://www.handbagclinic.co.uk/sale err=Page.goto: Target page, context or browser has been closed (attempt 1/3)
+[2026-01-31 01:15:17] Browser load error: https://www.handbagclinic.co.uk/sale err=Page.goto: Target page, context or browser has been closed (attempt 2/3)
+[2026-01-31 01:15:25] Browser load error: https://www.handbagclinic.co.uk/sale err=Page.goto: Target page, context or browser has been closed (attempt 3/3)
+[2026-01-31 01:15:25] Listing fetch failed: https://www.handbagclinic.co.uk/sale
+[2026-01-31 01:15:25] Browser load error: https://www.handbagclinic.co.uk/handbags err=Page.goto: Target page, context or browser has been closed (attempt 1/3)
+[2026-01-31 01:15:29] Browser load error: https://www.handbagclinic.co.uk/handbags err=Page.goto: Target page, context or browser has been closed (attempt 2/3)
+[2026-01-31 01:15:37] Browser load error: https://www.handbagclinic.co.uk/handbags err=Page.goto: Target page, context or browser has been closed (attempt 3/3)
+[2026-01-31 01:15:37] Listing fetch failed: https://www.handbagclinic.co.uk/handbags
+[2026-01-31 01:15:37] Browser load error: https://www.handbagclinic.co.uk/boxed-bags err=Page.goto: Target page, context or browser has been closed (attempt 1/3)
+[2026-01-31 01:15:40] Browser load error: https://www.handbagclinic.co.uk/boxed-bags err=Page.goto: Target page, context or browser has been closed (attempt 2/3)

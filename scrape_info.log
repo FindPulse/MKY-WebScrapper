@@ -1,0 +1,80 @@
+[2026-01-29 18:18:11] Loaded done URLs: 0
+[2026-01-29 19:17:46] Loaded done URLs: 0
+[2026-01-29 19:17:49] Opening sitemap: https://www.handbagclinic.co.uk/sitemap
+[2026-01-29 19:20:31] Loaded done URLs: 0
+[2026-01-29 19:20:34] Opening sitemap: https://www.handbagclinic.co.uk/
+[2026-01-29 19:34:54] Loaded done URLs: 0
+[2026-01-29 19:34:56] Opening sitemap: https://www.handbagclinic.co.uk/
+[2026-01-29 19:49:59] Loaded done URLs: 0
+[2026-01-29 19:50:01] Opening entry page: https://www.handbagclinic.co.uk/
+[2026-01-29 19:50:07] Brands found: 1
+[2026-01-29 19:50:07] Brand crawl start: https://www.handbagclinic.co.uk/
+[2026-01-29 19:50:14] Brand crawl done: https://www.handbagclinic.co.uk/ -> 4 products
+[2026-01-29 19:50:14] Total product URLs collected: 4
+[2026-01-29 19:50:14] [1/4] Scraping: https://www.handbagclinic.co.uk/product/hermes-birkin-30-in-rose-lipstick-togo-leather-31827
+[2026-01-29 19:50:23] [2/4] Scraping: https://www.handbagclinic.co.uk/product/louis-vuitton-speedy-30-in-multicolor-monogram-canvas-31722
+[2026-01-29 19:50:32] [3/4] Scraping: https://www.handbagclinic.co.uk/product/christian-dior-book-tote-in-blue-dior-oblique-embroidery-31620
+[2026-01-29 19:50:40] [4/4] Scraping: https://www.handbagclinic.co.uk/product/louis-vuitton-rare-cherry-keepall-45-in-monogram-canvas-takashi-murakami-collection-31820
+[2026-01-29 19:50:50] Completed run.
+[2026-01-29 20:16:06] Loaded done URLs: 4
+[2026-01-29 20:16:09] Opening entry page: https://www.handbagclinic.co.uk/
+[2026-01-29 20:16:38] Loaded done URLs: 4
+[2026-01-29 20:16:41] Opening entry page: https://www.handbagclinic.co.uk/
+[2026-01-29 20:23:16] Loaded done URLs: 4
+[2026-01-29 20:23:17] Opening entry page: https://www.handbagclinic.co.uk/
+[2026-01-29 20:28:51] Loaded done URLs: 4
+[2026-01-30 23:49:57] Loaded done URLs: 4
+[2026-01-31 00:00:59] Loaded done URLs: 4
+[2026-01-31 00:01:00] Using already‑open Chrome tab (will attempt to reuse session cookies to avoid WAF).
+[2026-01-31 00:01:02] Brands found: 1
+[2026-01-31 00:01:02] Brand crawl start: https://www.handbagclinic.co.uk/
+[2026-01-31 00:01:08] Brand crawl done: https://www.handbagclinic.co.uk/ -> 0 products
+[2026-01-31 00:01:08] Total product URLs collected: 0
+[2026-01-31 00:01:08] Completed run.
+[2026-01-31 00:05:18] Loaded done URLs: 4
+[2026-01-31 00:05:20] Using already‑open Chrome tab (will attempt to reuse session cookies to avoid WAF).
+[2026-01-31 00:05:21] Brands found: 1
+[2026-01-31 00:05:21] Brand crawl start: https://www.handbagclinic.co.uk/
+[2026-01-31 00:05:30] Brand crawl done: https://www.handbagclinic.co.uk/ -> 0 products
+[2026-01-31 00:05:30] Total product URLs collected: 0
+[2026-01-31 00:05:30] Completed run.
+[2026-01-31 00:13:10] Loaded done URLs: 4
+[2026-01-31 00:13:11] Using already‑open Chrome tab (will attempt to reuse session cookies to avoid WAF).
+[2026-01-31 00:13:13] Brands found: 1
+[2026-01-31 00:13:13] Brand crawl start: https://www.handbagclinic.co.uk/
+[2026-01-31 00:14:03] Brand crawl done: https://www.handbagclinic.co.uk/ -> 0 products
+[2026-01-31 00:14:03] Total product URLs collected: 0
+[2026-01-31 00:14:03] Completed run.
+[2026-01-31 00:14:36] Loaded done URLs: 4
+[2026-01-31 00:14:37] Using already‑open Chrome tab (will attempt to reuse session cookies to avoid WAF).
+[2026-01-31 00:14:38] Brands found: 1
+[2026-01-31 00:14:38] Brand crawl start: https://www.handbagclinic.co.uk/
+[2026-01-31 00:15:30] Brand crawl done: https://www.handbagclinic.co.uk/ -> 0 products
+[2026-01-31 00:15:30] Total product URLs collected: 0
+[2026-01-31 00:15:30] Completed run.
+[2026-01-31 00:18:20] Loaded done URLs: 4
+[2026-01-31 00:18:21] Using already‑open Chrome tab (will attempt to reuse session cookies to avoid WAF).
+[2026-01-31 00:18:23] Retrying brand discovery from handbags landing page...
+[2026-01-31 00:25:56] Loaded done URLs: 4
+[2026-01-31 00:25:58] Using already‑open Chrome tab (will attempt to reuse session cookies to avoid WAF).
+[2026-01-31 00:25:59] Brands found: 1
+[2026-01-31 00:25:59] Brand crawl start: https://www.handbagclinic.co.uk/
+[2026-01-31 00:26:49] Brand crawl done: https://www.handbagclinic.co.uk/ -> 0 products
+[2026-01-31 00:26:49] Total product URLs collected: 0
+[2026-01-31 00:26:49] Completed run.
+[2026-01-31 00:54:12] Loaded done URLs: 4
+[2026-01-31 00:54:13] Using already‑open Chrome tab (will attempt to reuse session cookies to avoid WAF).
+[2026-01-31 00:54:14] Brands found: 15
+[2026-01-31 00:54:14] Brand crawl start: https://www.handbagclinic.co.uk/
+[2026-01-31 00:55:02] Site verification detected. Please complete the verification in the browser and press Enter to continue.
+[2026-01-31 01:15:14] Brand crawl done: https://www.handbagclinic.co.uk/ -> 0 products
+[2026-01-31 01:15:14] Brand crawl start: https://www.handbagclinic.co.uk/sale
+[2026-01-31 01:15:25] Brand crawl done: https://www.handbagclinic.co.uk/sale -> 0 products
+[2026-01-31 01:15:25] Brand crawl start: https://www.handbagclinic.co.uk/handbags
+[2026-01-31 01:15:37] Brand crawl done: https://www.handbagclinic.co.uk/handbags -> 0 products
+[2026-01-31 01:15:37] Brand crawl start: https://www.handbagclinic.co.uk/boxed-bags
+[2026-01-31 01:30:30] Loaded done URLs: 4
+[2026-01-31 01:30:31] Using already‑open Chrome tab (will attempt to reuse session cookies to avoid WAF).
+[2026-01-31 01:30:33] Brands found: 1
+[2026-01-31 01:30:33] Brand crawl start: https://www.handbagclinic.co.uk/
+[2026-01-31 01:31:20] Site verification detected. Please complete the verification in the browser and press Enter to continue.
